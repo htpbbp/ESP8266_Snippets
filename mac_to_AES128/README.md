@@ -1,4 +1,4 @@
-#ESP8266 MAC address AES1 128Bit encryption / decryption example
+# ESP8266 MAC address AES1 128Bit encryption / decryption example
 
 Arduino based running example to encrypt and decrypt the ESP8266 MAC address with AES-128.
 
